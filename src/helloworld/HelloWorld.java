@@ -17,7 +17,6 @@ public class HelloWorld {
             playerInput = playerInput.toLowerCase();
 
             int playerChoice = 0;
-            String a;
 
             switch (playerInput) {
                 case "rock":
