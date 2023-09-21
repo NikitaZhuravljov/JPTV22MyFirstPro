@@ -32,8 +32,7 @@ public class App {
 
                 default: 
                     System.out.println("no such option");
-            }
+            }          
         }
     }
-
 }
